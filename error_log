@@ -1,0 +1,12 @@
+[09-Sep-2021 20:25:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/tgwblpclzzlr/public_html/demo/ShareTradeePoint/deleteme.wpnjla.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tgwblpclzzlr/public_html/demo/ShareTradeePoint/deleteme.wpnjla.php on line 16
+[09-Sep-2021 20:25:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/tgwblpclzzlr/public_html/demo/ShareTradeePoint/deleteme.wpuitn.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tgwblpclzzlr/public_html/demo/ShareTradeePoint/deleteme.wpuitn.php on line 16
+[09-Sep-2021 20:25:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/tgwblpclzzlr/public_html/demo/ShareTradeePoint/deleteme.wpf6xp.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tgwblpclzzlr/public_html/demo/ShareTradeePoint/deleteme.wpf6xp.php on line 16

@@ -1,0 +1,162 @@
+# Copyright (C) 2021 Swapnil Dhanrale
+# This file is distributed under the same license as the Particle WordPress Backgrounds package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Particle WordPress Backgrounds 1.2.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/swap-snow-fall\n"
+"POT-Creation-Date: 2021-05-15 17:12:52+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: classes/admin/class-ssf-menu.php:68
+msgid "Clear"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:69
+msgid "Clear color"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:70
+msgid "Default"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:71
+msgid "Select default color"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:72
+msgid "Select Color"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:73
+msgid "Color value"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:93
+msgid "Change your settings from here"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:100
+msgid "Type:"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:108
+msgid "Particle Color:"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:116
+msgid "Particle Shape:"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:124
+msgid "Number of Particles:"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:132
+msgid "Display On:"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:148
+msgid "Disable Snow Effect:"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:177
+msgid "Particles"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:178
+msgid "Plain Snow"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:229
+msgid "Circle"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:230
+msgid "Star"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:231
+msgid "Triangle"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:232
+msgid "Polygon"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:233
+msgid "Edge"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:297
+msgid "Settings"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:298
+msgid "About"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:344
+msgid "What is the Particle Background Plugin?"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:345
+msgid ""
+"The Particle Background plugin is developed for the users to easily add "
+"Particle Background to their entire website."
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:349
+msgid "We stand by you!"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:350
+msgid ""
+"We assure complete help and support whenever you need us. Go ahead and add "
+"some cool effects to your website!"
+msgstr ""
+
+#: swap-snow-fall.php:33
+#. translators: %s: PHP version
+msgid "Swap Snow Fall requires PHP version %s+, plugin is currently NOT RUNNING."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Particle WordPress Backgrounds"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/swap-snow-fall/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Particle WordPress Backgrounds is fast, fully customizable WordPress plugin "
+"for adding particle JS to the background of  websites. It is very "
+"lightweight (less than 25KB on frontend) and offers unparalleled speed even "
+"with Particle JS."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Swapnil Dhanrale"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://profiles.wordpress.org/swapnild"
+msgstr ""
