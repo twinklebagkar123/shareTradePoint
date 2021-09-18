@@ -26,7 +26,6 @@ get_header(); ?>
 <?php endif ?>
 
 	<div id="primary" <?php astra_primary_class(); ?>>
-	<h1>hi</h1>
 		<?php astra_primary_content_top(); ?>
 
 		<?php astra_content_page_loop(); ?>
